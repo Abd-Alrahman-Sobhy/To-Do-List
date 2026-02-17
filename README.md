@@ -22,8 +22,6 @@ A clean and straightforward **To-Do List web application** built with **ASP.NET 
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
 - [Configuration](#-configuration)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
